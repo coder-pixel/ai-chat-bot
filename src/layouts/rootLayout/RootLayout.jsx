@@ -20,7 +20,7 @@ const RootLayout = () => {
         <header>
           <Link to="/" className="logo">
             <img src="/logo.png" alt="" />
-            <span>AI Chat</span>
+            <span>Chatly AI</span>
           </Link>
           <div className="user">
             <SignedIn>
