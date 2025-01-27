@@ -13,7 +13,7 @@ const ChatPage = () => {
   //     }).then((res) => res.json()),
   // });
 
-  // console.log(data);
+  console.log("data");
 
   return (
     <div className="chatPage">
